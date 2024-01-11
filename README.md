@@ -1,7 +1,14 @@
-# FullStack Social Media App
+# Social Media App For Georgia Tech Students
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+Techedia is a fullstack responsive web application that can be used by any student at Georgia Tech!
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+For This Project I used the MERN stack (MongoDb, Express.js, React.js, Node.js)
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+Some Features the app includes:
+    User Authentication
+    Users can Post anything they want to the public, including pictures
+    File upload
+    Users can like each others posts as well as friend each other
+    Users have the option between using Light Mode and Dark Mode 
+
+For any questions about this web application please email me at umarm417@gmail.com or umanzoor3@gatech.edu - I'd be more than happy to answer any questions you may have!
